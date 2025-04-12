@@ -1,4 +1,4 @@
-# PhishDetect: Machine Learning for Phishing URL Detection
+# PhishDetect: Machine Learning for Phishing URL Detection (Dec 24)
 
 This repository contains code and documentation for a phishing detection system that evaluates model performance and feature robustness across different datasets.
 
